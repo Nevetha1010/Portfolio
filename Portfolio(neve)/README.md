@@ -2,7 +2,7 @@
 Beautiful HTML,CSS and Bootstrap Portfolio
 
 # Demo
-- https://joncarter.netlify.app/
+- https://64ba217f4919a154b33b413e--fabulous-praline-fa4ce9.netlify.app/#home
 
 # Features
 - Fully Responsive
